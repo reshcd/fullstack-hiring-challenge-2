@@ -19,7 +19,7 @@ in when working us.
  - The file should be validated before being stored in the database;
  - If the file contains one incorrect row, the whole file should be rejected and 
 all the data must be thrown away;
- - If the file is correct, it should be stored in the database;
+ - If the file is correct, the data should be stored in the database into a respective model;
  - The API should be able to return the data stored in the database.
 
 You must use `Django` and `Django Rest Framework` to implement the API.
