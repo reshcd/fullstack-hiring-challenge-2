@@ -1,0 +1,51 @@
+Nome,Descrição,Severidade,CVSS
+CVE-2023-001,Buffer Overflow,Alta,8.5
+CVE-2023-002,SQL Injection,Média,6.2
+CVE-2023-003,Cross-Site Scripting,Baixa,4.3
+CVE-2023-004,Privilege Escalation,Alta,9.0
+CVE-2023-005,Remote Code Execution,Crítica,10.0
+CVE-2023-006,Denial of Service,Média,5.7
+CVE-2023-007,Insecure Authentication,Alta,8.8
+CVE-2023-008,Information Disclosure,Baixa,4.0
+CVE-2023-009,Cross-Site Request Forgery,Média,6.5
+CVE-2023-010,XML External Entity Injection,Média,6.2
+CVE-2023-011,Remote File Inclusion,Média,6.4
+CVE-2023-012,Man-in-the-Middle Attack,Alta,8.9
+CVE-2023-013,Clickjacking Attack,Baixa,3.1
+CVE-2023-014,Weak Password Policy,Baixa,3.9
+CVE-2023-015,Cross-Site Request Forgery,Alta,9.3
+CVE-2023-016,Information Disclosure,Média,5.5
+CVE-2023-017,Privilege Escalation,Alta,9.1
+CVE-2023-018,SQL Injection,Média,6.8
+CVE-2023-019,Buffer Overflow,Alta,8.7
+CVE-2023-020,Remote Code Execution,Crítica,9.8
+CVE-2023-021,Denial of Service,Média,5.3
+CVE-2023-022,Insecure Authentication,Alta,8.6
+CVE-2023-023,Cross-Site Scripting,Baixa,3.5
+CVE-2023-024,Privilege Escalation,Alta,9.2
+CVE-2023-025,Remote Code Execution,Crítica,10.0
+CVE-2023-026,Buffer Overflow,Alta,8.9
+CVE-2023-027,SQL Injection,Média,6.1
+CVE-2023-028,Cross-Site Scripting,Baixa,3.8
+CVE-2023-029,Privilege Escalation,Alta,8.7
+CVE-2023-030,Remote Code Execution,Crítica,9.9
+CVE-2023-031,Denial of Service,Média,5.4
+CVE-2023-032,Insecure Authentication,Alta,8.4
+CVE-2023-033,Information Disclosure,Baixa,3.5
+CVE-2023-034,Cross-Site Request Forgery,Média,6.3
+CVE-2023-035,XML External Entity Injection,Média,6.1
+CVE-2023-036,Remote File Inclusion,Média,6.6
+CVE-2023-037,Man-in-the-Middle Attack,Alta,9.0
+CVE-2023-038,Clickjacking Attack,Baixa,3.0
+CVE-2023-039,Weak Password Policy,Baixa,4.2
+CVE-2023-040,Cross-Site Request Forgery,Alta,9.2
+CVE-2023-041,Information Disclosure,Média,5.2
+CVE-2023-042,Privilege Escalation,Alta,9.3
+CVE-2023-043,SQL Injection,Média,6.7
+CVE-2023-044,Buffer Overflow,Alta,8.8
+CVE-2023-045,Remote Code Execution,Crítica,9.5
+CVE-2023-046,Denial of Service,Média,5.6
+CVE-2023-047,Insecure Authentication,Alta,8.2
+CVE-2023-048,Cross-Site Scripting,Baixa,4.1
+CVE-2023-049,Privilege Escalation,Alta,9.4
+CVE-2023-050,Remote Code Execution,Crítica,10.0
