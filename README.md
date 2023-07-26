@@ -1,6 +1,6 @@
-<h1  style="text-align: center;">Work With Us!</h1>
+<h1 align="center">Work With Us!</h1>
 
-<p style="text-align: center;">
+<p align="center">
   <img alt="Resh Logo" src="https://resh.com.br/wp-content/uploads/2021/01/logo-dark-novo-1.png" width="15%" height="15%" />
 </p>
 
